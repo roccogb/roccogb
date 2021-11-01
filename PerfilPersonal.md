@@ -1,0 +1,3 @@
+- 👋 Hola, soy Rocco.
+- 👀 Estoy interesado en desarrollo web y espero avanzar en este tema.
+- 🌱 Actualmente estoy aprendiendo html y css.
