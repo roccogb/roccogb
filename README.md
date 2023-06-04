@@ -28,6 +28,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roccogb&theme=dark&hide_border=true&border_radius=3.5)](https://git.io/streak-stats)
 
-![roccogb GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+[![Rocco GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
