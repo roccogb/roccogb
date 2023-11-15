@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 <h1 align="center">Hi! I'm Rocco👋</h1>
-<h3 align="center">I am a 17-year-old Argentinian junior full stack developer who is always eager to learn new things. Programming is my passion, and I am constantly expanding my knowledge and skills in this field. When I am not coding, you can find me at the gym, working on improving my physical fitness. I believe that maintaining a healthy balance between mental and physical well-being is crucial for personal and professional growth. Being able to adapt and learn quickly has been a key asset in my programming journey, allowing me to tackle diverse projects and explore various technologies. With a strong determination to excel, I am committed to delivering innovative and efficient solutions as I continue to evolve as a full stack programmer.
+<h3 align="center">I am an Argentinian junior full stack developer who is always eager to learn new things. Programming is my passion, and I am constantly expanding my knowledge and skills in this field. When I am not coding, you can find me at the gym, working on improving my physical fitness. I believe that maintaining a healthy balance between mental and physical well-being is crucial for personal and professional growth. Being able to adapt and learn quickly has been a key asset in my programming journey, allowing me to tackle diverse projects and explore various technologies. With a strong determination to excel, I am committed to delivering innovative and efficient solutions as I continue to evolve as a full stack programmer.
 </h3>
 </div>
 
