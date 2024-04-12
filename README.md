@@ -13,7 +13,7 @@
 
 - 🤖 Always learning new things
 
-- 🤔 If you have any doubts rgrassanobarbieri@gmail.com
+- 🤔 If you have any doubts roccograssanob@gmail.com
 
 <div align="left">
 <h3>🔨  Languages and Tools</h3>
