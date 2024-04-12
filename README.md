@@ -25,7 +25,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="FIGMA" alt="FIGMA" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODE" alt="NODE" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/python-plain.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MONGODB" alt="MONGODB" width="40" height="40"/>&nbsp;
      
                
