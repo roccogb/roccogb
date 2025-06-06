@@ -4,12 +4,4 @@
   <p>Currently studying Computer Engineering at the University of Buenos Aires.<br>
   Always exploring and building useful tech.</p>
 
-  <details>
-  <summary>  👇 My coding stats</summary>
-  <br>
-  
-  ![Rocco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roccogb&show_icons=true&theme=tokyonight)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roccogb&layout=compact&theme=tokyonight)
-
-  </details>
