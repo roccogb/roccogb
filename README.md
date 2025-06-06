@@ -4,12 +4,6 @@
   <p>Currently studying Computer Engineering at the University of Buenos Aires.<br>
   Always exploring and building useful tech.</p>
 
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roccogb&color=blue" alt="Profile views" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
