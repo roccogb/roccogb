@@ -5,7 +5,7 @@
   Always exploring and building useful tech.</p>
 
   <details>
-  <summary> ~ 👇 My coding stats</summary>
+  <summary>  👇 My coding stats</summary>
   <br>
   ![Rocco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roccogb&show_icons=true&theme=tokyonight)
 
