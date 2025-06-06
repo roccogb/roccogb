@@ -6,8 +6,14 @@
 
 ---
 
-## 📊 GitHub Stats
+### 👉 oh, acá están mis estadísticas técnicas
 
-![Rocco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roccogb&show_icons=true&theme=tokyonight)
+<details>
+  <summary>click para verlas</summary>
+  <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roccogb&layout=compact&theme=tokyonight)
+  ![Rocco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roccogb&show_icons=true&theme=tokyonight)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roccogb&layout=compact&theme=tokyonight)
+
+</details>
