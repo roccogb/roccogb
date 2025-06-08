@@ -17,9 +17,9 @@
       </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roccogb&theme=gruvbox&layout=compact&hide_border=true"
           alt="Rocco :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roccogb&theme=gruvbox&layout=compact&hide_border=true"
           alt="Rocco :: Top Langs by commit" />
           </a>
         </p>
