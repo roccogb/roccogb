@@ -6,7 +6,6 @@
 <details> 
   <summary> GitHub Profile Stats</summary>
   <div>
-  <samp>
   <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
