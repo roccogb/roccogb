@@ -10,7 +10,6 @@
   <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
-  <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/1999AZZAR/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roccogb&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
