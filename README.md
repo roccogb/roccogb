@@ -4,8 +4,9 @@
   <p>Currently studying Computer Engineering at the University of Buenos Aires.<br>
   Always exploring and building useful tech.</p>
 <details> 
-  <summary> GitHub Profile Stats</summary>
+<summary> GitHub Profile Stats</summary>
   <div>
+  <samp>
   <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
