@@ -1,0 +1,2 @@
+echo "index.js" >> .gitignore
+echo "data.json" >> .gitignore
